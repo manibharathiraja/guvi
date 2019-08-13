@@ -1,0 +1,8 @@
+a=float(input())
+if(a%2==0):
+    print("Even")
+elif(a%2!=0):
+    print("0dd")
+else:
+    print("invalid")
+    
